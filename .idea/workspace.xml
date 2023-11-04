@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe7c6b18-38e7-4b17-b822-56d2abcd7644" name="Changes" comment="">
+    <list default="true" id="e97facee-08a9-4c4e-8198-fd85385c1687" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/About/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/About/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(site)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(site)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CTA/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CTA/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Hero/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Hero/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2XgtuM5rC4vygsFYkJ2lmxCzAar" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2XhcTvvUnkgBxBNL0kXXSXko8vz" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -34,7 +34,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/about" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -49,17 +48,6 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/images/about" />
-      <recent name="$PROJECT_DIR$/public/videos" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/images/about" />
-      <recent name="$PROJECT_DIR$/public/images/hero" />
-      <recent name="$PROJECT_DIR$/public/images/logo" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
@@ -82,28 +70,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe7c6b18-38e7-4b17-b822-56d2abcd7644" name="Changes" comment="" />
-      <created>1699062771840</created>
+      <changelist id="e97facee-08a9-4c4e-8198-fd85385c1687" name="Changes" comment="" />
+      <created>1699084763619</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699062771840</updated>
-      <workItem from="1699062773211" duration="7469000" />
+      <updated>1699084763619</updated>
+      <workItem from="1699084765836" duration="1423000" />
     </task>
-    <task id="LOCAL-00001" summary="testimonialの領域を削除">
-      <created>1699064868200</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1699064868200</updated>
-    </task>
-    <task id="LOCAL-00002" summary="LP全体的に作成">
-      <created>1699074163472</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1699074163472</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,12 +84,5 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="testimonialの領域を削除" />
-    <MESSAGE value="LP全体的に作成" />
-    <option name="LAST_COMMIT_MESSAGE" value="LP全体的に作成" />
   </component>
 </project>

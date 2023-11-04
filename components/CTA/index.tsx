@@ -64,7 +64,7 @@ const CTA = () => {
                 />
                 <a
                   href="https://app.quiz-craft.jp/login"
-                  className="inline-flex items-center gap-2.5 rounded-full bg-black px-6 py-3 font-medium text-white hover:opacity-90 dark:bg-white dark:text-black" target={"_blank"}
+                  className="inline-flex items-center gap-2.5 rounded-full bg-primary px-6 py-3 font-medium text-white hover:opacity-90 dark:bg-white dark:text-black" target={"_blank"}
                 >
                   会員登録（無料）
                   <Image
