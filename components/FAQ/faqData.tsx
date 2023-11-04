@@ -3,18 +3,18 @@ import { FAQ } from "@/types/faq";
 const faqData: FAQ[] = [
   {
     id: 1,
-    quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities, digital experiences.",
+    quest: "本当に無料で使えますか？",
+    ans: "はい、現在はβ版のため無料でお使いいただけます。",
   },
   {
     id: 2,
-    quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities, digital experiences.",
+    quest: "アップロードしたテキストやファイルはどのように使用されますか？",
+    ans: "サードパーティーAIのAPIの送信内容に使用されます。なお、AI自体の学習には使用されません。",
   },
   {
     id: 3,
-    quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities, digital experiences.",
+    quest: "どのように活用することができますか？",
+    ans: "QuizCraftはお手持ちの資料から簡単に問題が作成できるサービスです。社内の大量のマニュアルなどを新メンバーに覚えてもらいたい研修のシーンや、会社資料を元にした会社クイズを作って、忘年会や懇親会のシーンのコンテンツにすることもできます。",
   },
 ];
 

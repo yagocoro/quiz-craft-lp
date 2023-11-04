@@ -13,11 +13,9 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Core Features of Solid",
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-            convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-            ante in maximus.`,
+              title: "QuizCraftの特徴",
+              subtitle: "主な特徴",
+              description: `QuizCraftでは問題の作成、問題の回答、回答管理を一元的に行うことができます。`,
             }}
           />
           {/* <!-- Section Title End --> */}

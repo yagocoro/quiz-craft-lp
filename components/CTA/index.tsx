@@ -29,12 +29,11 @@ const CTA = () => {
               className="animate_left md:w-[70%] lg:w-1/2"
             >
               <h2 className="mb-4 w-11/12 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle4">
-                Join With Us Today & Increase Your Productivity
+                さあ、あなたも新しい学習体験を始めましょう。
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                convallis tortor eros. Donec vitae tortor lacus. Phasellus
-                aliquam ante in maximus.
+                現在β版としての提供のため問題作成、回答、回答管理も全て無料でご利用いただけます。
+                正式版リリース後も、基本的な機能は無料でご利用いただける予定です。
               </p>
             </motion.div>
             <motion.div
@@ -64,10 +63,10 @@ const CTA = () => {
                   className="hidden xl:block"
                 />
                 <a
-                  href="signup.html"
-                  className="inline-flex items-center gap-2.5 rounded-full bg-black px-6 py-3 font-medium text-white hover:opacity-90 dark:bg-white dark:text-black"
+                  href="https://app.quiz-craft.jp/login"
+                  className="inline-flex items-center gap-2.5 rounded-full bg-black px-6 py-3 font-medium text-white hover:opacity-90 dark:bg-white dark:text-black" target={"_blank"}
                 >
-                  Sign up free
+                  会員登録（無料）
                   <Image
                     width={20}
                     height={20}
