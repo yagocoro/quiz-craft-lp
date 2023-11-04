@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe7c6b18-38e7-4b17-b822-56d2abcd7644" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/about/about-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/about/about-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/about/about-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/hero/poster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo/logo-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/videos/demo.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(site)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(site)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/About/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/About/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CTA/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CTA/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Common/SectionHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Common/SectionHeader.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/FAQ/FAQItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/FAQ/FAQItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/FAQ/faqData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/FAQ/faqData.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/FAQ/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/FAQ/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Features/featuresData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Features/featuresData.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Features/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Features/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/menuData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/menuData.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Hero/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Hero/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Pricing/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Pricing/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699062771840</updated>
-      <workItem from="1699062773211" duration="7154000" />
+      <workItem from="1699062773211" duration="7469000" />
     </task>
     <task id="LOCAL-00001" summary="testimonialの領域を削除">
       <created>1699064868200</created>
@@ -115,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699064868200</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LP全体的に作成">
+      <created>1699074163472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699074163472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +113,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="testimonialの領域を削除" />
-    <option name="LAST_COMMIT_MESSAGE" value="testimonialの領域を削除" />
+    <MESSAGE value="LP全体的に作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="LP全体的に作成" />
   </component>
 </project>
