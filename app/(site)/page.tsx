@@ -8,12 +8,10 @@ import Integration from "@/components/Integration";
 import CTA from "@/components/CTA";
 import FAQ from "@/components/FAQ";
 import Pricing from "@/components/Pricing";
-import Contact from "@/components/Contact";
-import Blog from "@/components/Blog";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter Template for SaaS Startups - Solid SaaS Boilerplate",
-  description: "This is Home for Solid Pro",
+  title: "QuizCraft - AI時代の新しい学習体験",
+  description: "手元の資料からワンクリックで問題を自動で作成。引用元を明記した解説も自動生成されます。",
   // other metadata
 };
 

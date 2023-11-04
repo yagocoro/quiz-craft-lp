@@ -4,7 +4,7 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-02.svg",
-    title: "問題作成",
+    title: "自動問題作成",
     description:
       "社内マニュアルや営業資料などのPDFやWordを元にした問題作成を行います。",
   },
